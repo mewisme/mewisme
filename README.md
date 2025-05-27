@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: May 27, 2025 at 1:27:04 PM
+#### ⏲️ &nbsp;Updated At: May 27, 2025 at 2:11:53 PM
 
 - [How caching works in Next.js](https://mewis.me/articles/how-caching-works-in-nextjs)
 - [Observantly try to use AbortController in JavaScript and React](https://mewis.me/articles/observantly-try-to-use-abortcontroller-in-javascript-and-react)
