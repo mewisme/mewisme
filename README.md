@@ -28,13 +28,13 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: June 13, 2025 at 3:12:59 PM
+#### ⏲️ &nbsp;Updated At: June 13, 2025 at 4:15:20 PM
 
+- [Top 5 Next.js alternatives for React developers](https://mewis.me/articles/top-5-nextjs-alternatives-for-react-developers)
 - [How caching works in Next.js](https://mewis.me/articles/how-caching-works-in-nextjs)
 - [Observantly try to use AbortController in JavaScript and React](https://mewis.me/articles/observantly-try-to-use-abortcontroller-in-javascript-and-react)
 - [Top 10 Custom Hooks for Every React Developer](https://mewis.me/articles/top-10-custom-hooks-for-every-react-developer)
 - [Boost Your Tailwind Workflow with ESLint and Prettier](https://mewis.me/articles/boost-your-tailwind-workflow-with-eslint-and-prettier)
-- [Shadcn Registry: A Better Way to Manage Your UI Components](https://mewis.me/articles/shadcn-registry-a-better-way-to-manage-your-ui-components)
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
