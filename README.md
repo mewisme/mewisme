@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: June 16, 2025 at 3:16:46 AM
+#### ⏲️ &nbsp;Updated At: June 16, 2025 at 4:25:32 AM
 
 - [Top 5 Next.js alternatives for React developers](https://mewis.me/articles/top-5-nextjs-alternatives-for-react-developers)
 - [How caching works in Next.js](https://mewis.me/articles/how-caching-works-in-nextjs)
