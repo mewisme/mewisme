@@ -28,13 +28,14 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: June 19, 2025 at 5:10:50 PM
+#### ⏲️ &nbsp;Updated At: July 1, 2025 at 6:19:24 AM
 
-- [Top 5 Next.js alternatives for React developers](https://mewis.me/articles/top-5-nextjs-alternatives-for-react-developers)
-- [How caching works in Next.js](https://mewis.me/articles/how-caching-works-in-nextjs)
-- [Observantly try to use AbortController in JavaScript and React](https://mewis.me/articles/observantly-try-to-use-abortcontroller-in-javascript-and-react)
-- [Top 10 Custom Hooks for Every React Developer](https://mewis.me/articles/top-10-custom-hooks-for-every-react-developer)
-- [Boost Your Tailwind Workflow with ESLint and Prettier](https://mewis.me/articles/boost-your-tailwind-workflow-with-eslint-and-prettier)
+[When to use nullish and or operators in JavaScript](https://mewis.me/blog/code-tips/when-to-use-nullish-and-or-operators-in-javascript)
+[Optimize Tailwind with ESLint & Prettier](https://mewis.me/blog/css/boost-your-tailwind-workflow-with-eslint-and-prettier)
+[How caching works in Next.js](https://mewis.me/blog/nextjs/how-caching-works-in-nextjs)
+[Top 5 Next.js alternatives for React developers](https://mewis.me/blog/nextjs/top-5-nextjs-alternatives-for-react-developers)
+[Welcome to mewis.me](https://mewis.me/blog/others/welcome)
+[Consider using AbortController in JavaScript and React](https://mewis.me/blog/reactjs/consider-using-abortcontroller-in-javascript-and-react)
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
