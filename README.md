@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: July 5, 2025 at 7:09:47 PM
+#### ⏲️ &nbsp;Updated At: July 5, 2025 at 8:12:34 PM
 
 [When to use nullish and or operators in JavaScript](https://mewis.me/blog/code-tips/when-to-use-nullish-and-or-operators-in-javascript)
 [Optimize Tailwind with ESLint & Prettier](https://mewis.me/blog/css/boost-your-tailwind-workflow-with-eslint-and-prettier)
