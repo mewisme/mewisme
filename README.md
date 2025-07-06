@@ -28,14 +28,13 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: July 6, 2025 at 5:13:09 AM
+#### ⏲️ &nbsp;Updated At: July 6, 2025 at 6:17:12 AM
 
-[When to use nullish and or operators in JavaScript](https://mewis.me/blog/code-tips/when-to-use-nullish-and-or-operators-in-javascript)
 [Optimize Tailwind with ESLint & Prettier](https://mewis.me/blog/css/boost-your-tailwind-workflow-with-eslint-and-prettier)
 [How caching works in Next.js](https://mewis.me/blog/nextjs/how-caching-works-in-nextjs)
 [Top 5 Next.js alternatives for React developers](https://mewis.me/blog/nextjs/top-5-nextjs-alternatives-for-react-developers)
-[Welcome to mewis.me](https://mewis.me/blog/others/welcome)
 [Consider using AbortController in JavaScript and React](https://mewis.me/blog/reactjs/consider-using-abortcontroller-in-javascript-and-react)
+[Welcome to mewis.me](https://mewis.me/blog/others/welcome)
 <!-- end-blog-posts -->
 
 ## 🌐 &nbsp;Contact Me
