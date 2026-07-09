@@ -28,7 +28,7 @@ root@mewthedev:~# █</samp></pre>
 
 <!-- start-blog-posts -->
 
-#### ⏲️ &nbsp;Updated At: July 8, 2026 at 10:02:50 PM
+#### ⏲️ &nbsp;Updated At: July 9, 2026 at 12:00:48 AM
 
 [Optimize Tailwind with ESLint & Prettier](https://mewis.me/blog/css/boost-your-tailwind-workflow-with-eslint-and-prettier)
 [How caching works in Next.js](https://mewis.me/blog/nextjs/how-caching-works-in-nextjs)
