@@ -24,18 +24,9 @@ root@mewthedev:~# █</samp></pre>
   <img alt="github contribution grid snake animation" src="assets/snk.svg">
 </picture>
 
-## 📖 &nbsp;Latest blog posts
-
-<!-- start-blog-posts -->
-
-#### ⏲️ &nbsp;Updated At: November 10, 2026 at 8:59:46 AM
-
-[Optimize Tailwind with ESLint & Prettier](https://mewis.me/blog/css/boost-your-tailwind-workflow-with-eslint-and-prettier)
-[How caching works in Next.js](https://mewis.me/blog/nextjs/how-caching-works-in-nextjs)
-[Top 5 Next.js alternatives for React developers](https://mewis.me/blog/nextjs/top-5-nextjs-alternatives-for-react-developers)
-[Consider using AbortController in JavaScript and React](https://mewis.me/blog/reactjs/consider-using-abortcontroller-in-javascript-and-react)
-[Welcome to mewis.me](https://mewis.me/blog/others/welcome)
-<!-- end-blog-posts -->
+<!-- start-updated-at -->
+#### ⏲️ &nbsp;Updated At: November 16, 2026 at 12:46 UTC
+<!-- end-updated-at -->
 
 ## 🌐 &nbsp;Contact Me
 

@@ -16,15 +16,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version: 3.x
-
-      - name: Install dependency requests
-        run: pip install requests
 
       - name: Run update script
         run: python update.py
@@ -42,10 +39,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'MeewMeew'
-          git config --global user.email 'mauminh.nguyen@gmail.com'
+          git config --global user.name 'Mew'
+          git config --global user.email '${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com'
           git add .
-          git commit -m "Update README.md"
+          git commit -m "chore(readme): update README.md"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
